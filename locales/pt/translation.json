@@ -1,0 +1,50 @@
+{
+  "Home": "Casa",
+  "Career": "Carreira",
+  "Projects": "Projectos",
+ 
+  "Contact": "Contacto",
+  "I": "Eu sou David Correia",
+  "Hi": "Olá, eu sou desenvolvedor web júnior",
+  "Passionate": "Apaixonado por codigo e tecnologia",
+  "Eager": "Empolgado para mergulhar na indústria",
+
+  "Soul": "Soul campers, Agente de Serviço de Aluguer",
+  "DetailsSoul": "Gestão de reservas recebidas, acolhimento dos hóspedes efetuando check-ins e check-outs. Preparação minuciosa e limpeza das autocaravanas. Manutenção e supervisão constante das autocaravanas. Registo dos hóspedes, monitorização do inventário e processamento de pagamentos. Lidar com reclamações e resolver emergências com prontidão.",
+  "DurationS": "3 anos",
+
+  "Ozadi": "Ozadi Hotel, Economato",
+  "DetailsOzadi": "Realizar tarefas relacionadas com o Economato/Compras. Receber fornecedores, analisar se o produto apresenta as condições necessárias e se não houve equívocos. Distribuir os produtos por departamento do hotel e verificar se estão em conformidade com as regras de HACCP. Lançar faturas, notas de crédito e guias de remessa no sistema PMS.",
+  "DurationO": "6 meses",
+
+  "Ryanair": "Ryanair, Operador de Assistência em Terra",
+  "DetailsRyanair": "Operador de assistência em terra. Realizar tarefas de carregamento, descarregamento e transporte de bagagem, carga e correio de e para aviões, armazéns e terminais. Conduzir veículos e reboques de material e posicionar equipamentos de suporte às aeronaves. Receção de passageiros.",
+  "DurationR": "2 anos",
+
+  "Hotel": "Escola Superior de Hotelaria e Turismo do Algarve(UALG).",
+  "DurationH": "4 anos",
+  "DetailsHotel": "Licenciatura em Gestão Hoteleira",
+
+  "Portway": "Operador de Assistência em Terra",
+  "DetailsPortway": "Realizar as mesmas funções do emprego mencionado anteriormente",
+  "DurationP": "3 anos",
+
+  "Tcareer": "Carreira",
+
+  "ProjectsT": "Projectos",
+  "ProjectDetails": "Esses projetos foram concluídos durante o Bootcamp da Ironhack. RatAttack foi desenvolvido individualmente, enquanto os outros foram feitos em duplas, com um prazo de uma semana para cada projeto. As principais ferramentas utilizadas foram MongoDB, React, JavaScript, Express, Node.js, CSS, Bootstrap, Postman, Axios e várias outras.",
+
+  "PreCourse": "Pré-Curso",
+  "PreDetails": "Durante a preparação pré-bootcamp na Ironhack, passei por 50 a 75 horas de treinamento em JavaScript, HTML, CSS, Git e GitHub. Esta preparação abrangente garantiu que eu estivesse totalmente preparado para uma experiência bem-sucedida no Bootcamp.",
+
+  "Module1": "Módulo 1: Aprendi HTML, CSS e JavaScript para desenvolvimento web e criei um jogo personalizado com design responsivo usando CSS e JavaScript.",
+  "Module2": "Módulo 2: Aprendi e pratiquei desenvolvimento de back-end com Node.js, Express.js, Handlebars e MongoDB. Construí servidores, trabalhei com bancos de dados, integrei APIs, testei rotas com o Postman e implantei projetos.",
+  "Module3": "Módulo 3: Tornei-me proficiente em ReactJS. Desenvolvi uma aplicação full-stack combinando habilidades de back-end com ReactJS para proporcionar uma experiência de usuário perfeita.",
+  "FinalProject": "Projeto Final: Após aproximadamente 500 a 600 horas de aprendizado intensivo, prática extensiva e implementação de projetos, apresentei todas as minhas habilidades criando uma aplicação full-stack baseada em MERN.",
+
+  "NAME": "NOME",
+  "subject": "SUJEITO",
+  "PHONE": "TELEFONE",
+  "MESSAGE": "MENSAGEM",
+  "sMESSAGE": "Enviar Mensagem"
+}

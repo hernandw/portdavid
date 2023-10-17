@@ -1,0 +1,52 @@
+{ 
+    
+    "Home":"Home",
+    "Career":"Career",
+    "Projects":"Projects",
+   "Contact":"Contact",
+
+    "I":"I'm David Correia",
+    "Hi":"Hi, i'm a Web Junior Developer",
+    "Passionate":"Passionate about code and technology",
+    "Eager":"Eager to dive into the industry",
+
+    "Soul":"Soul campers, Rent Service Agent",
+     "DetailsSoul":"Handling incoming reservations, welcoming guests and taking care of check-ins and check-outs Preparing and cleaning campervans Maintaining campervans in top condition and monitor maintenance, Registering guests, monitoring stock and processing payments ,Handling complaints and troubleshooting emergencies.",
+     "DurationS":"3 years",
+
+     "Ozadi":"Ozadi Hotel, Economat",
+     "DetailsOzadi": "Performing tasks related to the Economat/Purchasing. Receive Suppliers, analyze if the product presents the necessary conditions and if there were no misconceptions.Distribute the products by department of the hotel and whether they comply with the rules of haccp.Enter invoices, credit notes, waybills in the PMS system ",
+     "DurationO":"6 Months",
+    
+     "Ryanair": "Ryanair, Ground handling Operator",
+     "DetailsRyanair": "Ground handling operator.Perform loading and unloading and transportation tasks baggage, cargo and mail to and from aeroplanes, warehouses and terminals. Drive vehicles and trailer material and position aircraft support equipment.Reception of passengers.",
+     "DurationR":"2 years",
+
+     "Hotel": "Algarve School of Hospitality and Tourism (UALG).",
+     "DurationH":"4 years",
+     "DetailsHotel":"Degree in Hotel Management",
+
+    "Portway": " Ground handling operator",
+    "DetailsPortway":"Perform the same functions as the previously mentioned job.",
+    "DurationP":"3 years"  ,
+   
+    "Tcareer":"Career",
+
+    "ProjectsT": "Projects",
+    "ProjectDetails":"These projects were completed during the Ironhack Bootcamp. RatAttack was developed solo, while the others were done in pairs, with a time limit of one week per project. The main tools used were MongoDB, React, JavaScript, Express, Node.js, CSS, Bootstrap, Postman, Axios, and various others.",
+   
+    "PreCourse":"Pre-Course",
+    "PreDetails": "During the pre-bootcamp preparation at Ironhack, I underwent 50 to 75 hours of training in JavaScript, HTML, CSS, Git, and GitHub. This comprehensive preparation ensured that I was fully equipped for a successful experience in the Bootcamp.",
+   
+    "Module1":"Module 1: Learned HTML, CSS, and JavaScript for web development and create a personalized game with responsive design using CSS and JavaScript.",
+      "Module2":"Module 2: Learned and back-end development with Node.js, Express.js, Handlebars and MongoDB. Build servers, work with databases, integrate APIs, test routes with Postman, and deploy projects.",
+      "Module3":"Module 3: Become proficient in ReactJS. Develop a full-stack application combining back-end skills with ReactJS for a seamless user experience.",
+      "FinalProject":"Final Project: After approximately 500 to 600 hours, into intensive learning, extensive practice, and projects implementation, i showcase all skills by creating a MERN-based full-stack application.",
+   
+    "NAME":"NAME",
+    "subject":"SUBJECT",
+    "PHONE":"PHONE",
+    "MESSAGE":"MESSAGE",
+    "sMESSAGE":"Send Message"
+    }
+
